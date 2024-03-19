@@ -1,2 +1,2 @@
 # EV_scripting
-EV scripting
+Use for Alex's efforts at EV scripting / automation
